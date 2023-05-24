@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ManishYadavdevloper
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on java projects
+- 🌱 I’m currently working in php
+- 💞️ working in dw pvt ltd as php developer. 
 - 📫 How to reach me : search on github "@Manishyadavdeveloper", Search on twitter official_Tgtsg 
 
 <!---
