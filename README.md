@@ -50,7 +50,7 @@ Git • GitHub • Docker • AWS • Hostinger • cPanel
 💼 LinkedIn: linkedin.com/in/manishyadav
  (update link)
 
-📧 Email: info@mansaapex.com
+📧 Email: ceo@mansaapex.com
 
 ⚡ Quote
 
